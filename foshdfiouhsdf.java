@@ -49,8 +49,9 @@ public class foshdfiouhsdf {
         for (int i = 0; i < additionofbotharrays.length; i++) {
             additionofbotharrays[i] = a[i] + numbers2[i];
         }
-        System.out.println(" ");
-        System.out.println("addition of both arrays ");
+
+        System.out.println("\naddition of both arrays ");
+
         System.out.println(Arrays.toString(additionofbotharrays));
 
 
